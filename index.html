@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stylish Checkout Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1>Checkout</h1>
+
+  <div class="container">
+    <section>
+      <h2>Your Cart</h2>
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="puzzle cube">
+
+
+    </section>
+
+    <section>
+      <h2>Payment Information</h2>
+      <form>
+        <!-- Card Name Field -->
+        <label for="card-name">Cardholder Name:</label>
+        <input type="text" id="card-name" name="card-name" required aria-required="true">
+
+        <!-- Card Number Field -->
+        <label for="card-number">Card Number:</label>
+        <input type="text" id="card-number" name="card-number" required aria-required="true">
+
+        <!-- Expiry Date Field -->
+        <label for="expiry">Expiry Date:</label>
+        <input type="text" id="expiry" name="expiry" placeholder="MM/YY">
+
+        <button type="submit">Submit Payment</button>
+      </form>
+    </section>
+  </div>
+</body>
+
+</html>
+
