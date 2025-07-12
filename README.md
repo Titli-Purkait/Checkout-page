@@ -4,7 +4,7 @@ A clean and animated checkout page built using **HTML** and **CSS**, showcasing 
 
 ![Preview](https://cdn.freecodecamp.org/curriculum/labs/cube.jpg)
 
-🔗 **Live Demo**: [Click here to view](https://your-username.github.io/checkout-page/)
+🔗 **Live Demo**: [Click here to view]([https://titli-purkait.github.io/Checkout-page/])
 
 ---
 
